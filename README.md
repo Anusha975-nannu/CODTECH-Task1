@@ -6,5 +6,6 @@ Duration:october to november 2024
 
 OVERVIEW OF THE PROJECT:
 Project:SALES PERFORMANCE DASHBOARD
+
 Objective:
       The objective of the project is to create a sales performance dashboard to visualize sales data, tracking the key performance indicators, and analyzing the trends.
